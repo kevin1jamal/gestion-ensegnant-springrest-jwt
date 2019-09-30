@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GestionEnseignantWebService
+Implementation-Version: 1.0.0
+Built-By: Kevin Jamal
+Implementation-Vendor-Id: org.isj.gestionenseignant.api
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GestionEnseignantWebService
+Created-By: Maven Integration for Eclipse
+
